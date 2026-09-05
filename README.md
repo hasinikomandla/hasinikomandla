@@ -179,26 +179,6 @@ I write about programming, Python, AI and technology.
 
 ---
 
-## 🐍 My Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hasinikomandla/hasinikomandla/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hasinikomandla&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -211,7 +191,7 @@ I write about programming, Python, AI and technology.
 <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-<a href="mailto:hasinikomandla@gmail.com">
+<a href="mailto:[hasinikomandla@gmail.com](mailto:hasinikomandla@gmail.com)">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
